@@ -2,7 +2,6 @@
 Solution to minimum k-Chinese postman problem
 
 TODO
-napravi pdf
 napravi prezentaciju
 
 https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1050&context=inspire-meetings&utm_source=
