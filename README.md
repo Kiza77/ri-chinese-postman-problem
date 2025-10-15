@@ -5,7 +5,7 @@ TODO
 napravi pdf
 napravi prezentaciju
 
-https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1050&context=inspire-meetings&.com
+https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1050&context=inspire-meetings&utm_source=
 
 https://www.sciencedirect.com/science/article/abs/pii/S0305054805000663?.com
 
